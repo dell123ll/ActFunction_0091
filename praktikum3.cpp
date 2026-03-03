@@ -18,7 +18,8 @@ float LuasPersegi(){
     return p * l;
 }
 
-void Output(){
+void Output()
+{
     cout << "Hasilnya = " << LuasPersegi();
 }
 //Program Utama
